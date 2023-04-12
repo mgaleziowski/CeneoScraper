@@ -31,10 +31,13 @@ selectors={
 #product_code=input("Podaj kod produktu: ")
 product_code="96875119"
 #product_code="11017453"
-nr=1
-while(nr<3):
-    url=f"https://www.ceneo.pl/{product_code}/opinie{nr}"
+url=f"https://www.ceneo.pl/{product_code}#tab=reviews"
+while(url):
     response=requests.get(url)
+    if response.status_code!=requests.codes.ok:
+        print(response.status_code)
+        nr=None
+        break
     page=BeautifulSoup(response.text,'html.parser')
     #print(get_element(page))
     opinions=page.select("div.js_product-review")
@@ -45,8 +48,10 @@ while(nr<3):
         for k,v in selectors.items():
             single_opinion[k]=get_element(opinion,*v)
         all_opinions.append(single_opinion)
-        with open(f"./opinions/{product_code}.json","w",encoding="UTF-8") as jf:
-            json.dump(all_opinions,jf,indent=4,ensure_ascii=False)
+    url=f"https://www.ceneo.pl"+get_element(page,"a.pagination__next","href")
+
+with open(f"./opinions/{product_code}.json","w",encoding="UTF-8") as jf:
+    json.dump(all_opinions,jf,indent=4,ensure_ascii=False)
 
 
     

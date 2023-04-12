@@ -91,3 +91,91 @@
         ],
         "cons": []
     },
+    {
+        "opinion_id": "14719586",
+        "author": "j...6",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-07-14 12:25:49",
+        "purchased_at": "2021-07-10 16:52:07",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "Nie miałem możliwości dokładnego przetestowania, dlatego, że połowa funckj DualSense nie działa na PC, lub działa w wybranych tytułach. Natomiast pad jest solidnie wykonany, wygodniejszy od poprzednika i z żonąwalczymy o to, kto teraz gra na DualSense, a kto na DS4 v2,",
+        "pros": [
+            "ergonomia",
+            "fizyczne przyciski",
+            "jakość wykonania",
+            "wygląd",
+            "wytrzymałość"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "13809343",
+        "author": "p...n",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-01-20 21:13:45",
+        "purchased_at": "2021-01-10 00:43:10",
+        "thubs_up": "0",
+        "thumbs_down": "1",
+        "content": "Nowoczesny wyglad,  produkt premium. Niestety pad awaryjny, glownie za sprawa galek/drazkow, zgloszone w ramach gwarancji, otrzymam nowy pad - duzy plus za czas realizacji i szybka decyzje.",
+        "pros": [
+            "jakość dźwięku",
+            "wygląd"
+        ],
+        "cons": [
+            "ergonomia",
+            "wytrzymałość"
+        ]
+    },
+    {
+        "opinion_id": "14894219",
+        "author": "w...a",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-08-27 18:50:41",
+        "purchased_at": "2021-08-22 20:15:35",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "Solidny, odpowiednio ciężki, dla mnie lepszy od konkurencyjnych. Chociaż po małym \"wypadku\" czekam na wersję wodoodporną ;)",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "14765073",
+        "author": "Użytkownik Ceneo",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-07-26 11:49:46",
+        "purchased_at": "2021-07-22 10:20:52",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "Świetny pad. Wszystkie feathery robią ogromne wrażenie. Pad tylko do użytku na PS5 (nie działa dla PS4)  i możliwe podłączenie do PC",
+        "pros": [
+            "ergonomia",
+            "jakość dźwięku",
+            "wygląd",
+            "wytrzymałość"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16534373",
+        "author": "Jakub",
+        "recomendation": "Nie polecam",
+        "score": "0,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-09-18 21:14:57",
+        "purchased_at": "2022-09-14 23:11:26",
+        "thubs_up": "2",
+        "thumbs_down": "0",
+        "content": "Pad jest opisany jako nowy, na zdjęciu jest nawet w pudełku. Po dotarciu do paczkomatu zastaje pada zawiniętego w folię bąbelkową i karton. Pad miał posłużyć jako prezent, ale niestety jest to niemożliwe. Produkt niezgodny z opisem. Proszę o kontakt.",
+        "pros": [],
+        "cons": []
+    }
+]
