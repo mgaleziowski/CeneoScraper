@@ -1,0 +1,93 @@
+[
+    {
+        "opinion_id": "14080097",
+        "author": "Ewa",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-03-09 10:18:23",
+        "purchased_at": "2021-03-04 13:40:42",
+        "thubs_up": "1",
+        "thumbs_down": "0",
+        "content": "Pad bardzo dobrze leży w dłoniach. Technologia haptyczna w padzie dostarcza dodatkowych bodźców i sprawia większą frajdę w przechodzeniu gier.",
+        "pros": [
+            "ergonomia",
+            "jakość dźwięku",
+            "wygląd",
+            "wytrzymałość"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "16185125",
+        "author": "vMACIEKv",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2022-06-08 13:40:12",
+        "purchased_at": "2022-06-05 13:15:22",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "Świetny pad, zdecydowanie lepszy w porównaniu do PS4, nie mam zastrzeżeń, można go skonfigurować wraz ze zwykłym pecetem, polecam",
+        "pros": [],
+        "cons": []
+    },
+    {
+        "opinion_id": "14820179",
+        "author": "Piotr Minkina",
+        "recomendation": "Polecam",
+        "score": "4/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-08-09 19:49:41",
+        "purchased_at": "2021-07-09 19:34:14",
+        "thubs_up": "1",
+        "thumbs_down": "1",
+        "content": "Pada używam na nVidii SHIELD, gdzie producent zapewnił poprawne mapowanie klawiszy, natomiast nie działa jack audio (choć widzi urządzenie, to nie potrafi poprawnie przekierować ścieżki audio do pada) i wszystkie inne funkcje specjalne (wibracje, mikrofon, głośnik, touchpad, żyroskop itd.). Na Androidach jest problem z mapowaniem klawiszy i bez roota nie udało mi się skutecznie zapewnić poprawnej konfiguracji. Z tego co widziałem, to plik keylayout jest taki sam jak dla DualShocków (wystarczyło skopiować i zmienić nazwę na właściwą dla DualSense). Podobno wraz z Androidem 12 ma wejść znacznie lepszy support dla tego pada, włączając funkcje specjalne (szukaj: \"New PS5 DualSense Controller Features Are Coming To Androi\").\n\nDobrze siedzi w łapkach dorosłego oraz małego dziecka. Wykonanie wygląda na profesjonalne, chociaż wg zespołu iFixit producent przyoszczędził na analogowych gałkach, cytując: \"Sony zdecydowało się na tańszy model Alps RKJXV ThumbPointer, którego żywotność to zaledwie 2 mln cykli.\". Trochę za długo się go wyłącza (kombinacją dwóch klawiszy), bo jakoś kilkanaście–kilkadziesiąt sekund. Z parowaniem, z różnymi urządzeniami nie ma problemów. Trochę lepiej działa po kablu, bo przykładowo przycisk nad mikrofonem przynajmniej wysyła sygnał po kliknięciu, czego nie można powiedzieć o połączeniu bezprzewodowym.",
+        "pros": [
+            "ergonomia",
+            "grywalność",
+            "jakość",
+            "wygląd"
+        ],
+        "cons": [
+            "wytrzymałość"
+        ]
+    },
+    {
+        "opinion_id": "13920142",
+        "author": "r...c",
+        "recomendation": "Polecam",
+        "score": "5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-02-08 21:42:47",
+        "purchased_at": "2021-02-04 08:35:02",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "***** padzik",
+        "pros": [
+            "ergonomia",
+            "jakość dźwięku",
+            "wygląd",
+            "wytrzymałość"
+        ],
+        "cons": []
+    },
+    {
+        "opinion_id": "14603837",
+        "author": "m...j",
+        "recomendation": "Polecam",
+        "score": "4,5/5",
+        "purchased": "Opinia potwierdzona zakupem",
+        "published_at": "2021-06-15 21:35:54",
+        "purchased_at": "2021-05-30 08:18:40",
+        "thubs_up": "0",
+        "thumbs_down": "0",
+        "content": "Świetnie leży w dłoni, bardzo ergonomiczny dla mnie. Dłonie nie drętwieją po godzinach zabawy przy dobrym RPGu, co w przypadku mojej osoby z problemami z cieśnią nadgarstka jest ogromnym plusem. Do tego sporo w nim technologii, ciekawy system spustów, trackpad, motion sensor, wbudowany głośnik i mikrofon.. Dla mnie kosmos.",
+        "pros": [
+            "ergonomia",
+            "fizyczne przyciski",
+            "jakość wykonania",
+            "wygląd"
+        ],
+        "cons": []
+    },
