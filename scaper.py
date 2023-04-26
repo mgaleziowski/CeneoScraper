@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 from bs4 import BeautifulSoup
 
 def get_element(ancestor, selector = None, attribute = None, return_list = False):
